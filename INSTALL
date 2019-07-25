@@ -1,0 +1,9 @@
+Building Crixcoin
+
+See doc/readme-qt.rst for instructions on building Crixcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Crixcoin.
+
+See doc/build-*.txt for instructions on building crixcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Crixcoin.
