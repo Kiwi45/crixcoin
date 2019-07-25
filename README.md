@@ -1,4 +1,4 @@
-Crix Coin  ![Crix Coin](https://drive.google.com/open?id=1kekjEP-SR-o7UnyMChr2lxpcT723DzKL)
+Crix Coin  
 ================================
 
 https://thecrix.de/
