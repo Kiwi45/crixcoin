@@ -1,4 +1,4 @@
-Crixcoin integration/staging tree
+Crixcoin 
 ================================
 
 https://thecrix.de/
